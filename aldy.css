@@ -158,3 +158,146 @@ section a:hover{
     color: white;
 
 }
+
+/* INI HALAMAN BERBEDA */
+
+
+
+
+
+.navigation{
+    margin: 60px 0 0 80px;
+    
+}
+
+
+.list {
+    width: 80%;
+    margin: 8px auto 20px auto;
+    background-color: ;
+    padding: 20;
+    overflow: hidden;
+}
+
+.bar {
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 28%;
+        padding-bottom: 163px;
+}
+
+
+
+.keterangan {
+    background-color: white;
+    text-align: center;
+    font-family: "Reem kufi";
+}
+
+
+.keterangan p {
+    text-transform: uppercase;
+    font-size: 14px;
+    margin: 0px 8px;
+    color: #5b5b5b;
+}
+
+.keterangan h3 {
+    font-size: 24px;
+    margin: 8px 8px;
+}
+
+.bar img
+{
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 56%;
+}
+
+/* ini bagian artikel */
+
+article {
+    display: inline-flex;
+    margin: 70px;
+}
+
+article img{
+
+    height: 142px;
+    width: 152px;
+    margin: 15px;
+
+}
+
+article p{
+    padding-bottom: 50px;
+    border-bottom-style: solid;
+}
+
+.center {
+
+    margin-top: 100px;
+    text-align: center;
+    font-family: "Reem kufi", serif;
+    text-decoration: underline;
+}
+
+/*hubungi*/
+
+.list1 {
+    width: 80%;
+    margin: 100px auto 20px auto;
+    background-color: ;
+    padding: 20;
+    overflow: hidden;
+}
+
+
+/* form */
+
+.kotak{
+
+    width: 300px;
+  height: 450px;
+  border: 1px solid grey;
+  border-width: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-family: "reem kufi" ;
+}
+
+.isi {
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.input {
+
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+
+}
+
+
+
+.kotak img {
+
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 200px;
+    
+    
+    
+    
+    
+    
+}
+
